@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Group_Project_3Pers",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
